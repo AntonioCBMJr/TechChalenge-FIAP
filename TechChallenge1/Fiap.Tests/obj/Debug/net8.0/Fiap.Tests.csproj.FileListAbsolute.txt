@@ -1,0 +1,396 @@
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\testhost.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\testhost.exe
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Fiap.Tests.deps.json
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Fiap.Tests.runtimeconfig.json
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Fiap.Tests.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Fiap.Tests.pdb
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.abstractions.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.assert.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.core.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.execution.dotnet.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.csproj.AssemblyReference.cache
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.AssemblyInfoInputs.cache
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.AssemblyInfo.cs
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.csproj.CoreCompileInputs.cache
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.csproj.CopyComplete
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\refint\Fiap.Tests.dll
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.pdb
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.genruntimeconfig.cache
+D:\Fabio\Dev\Fiap\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\ref\Fiap.Tests.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\testhost.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\testhost.exe
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Fiap.Tests.deps.json
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Fiap.Tests.runtimeconfig.json
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Fiap.Tests.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Fiap.Tests.pdb
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.core.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.execution.dotnet.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.csproj.AssemblyReference.cache
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.AssemblyInfoInputs.cache
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.AssemblyInfo.cs
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.csproj.CoreCompileInputs.cache
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.csproj.CopyComplete
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\refint\Fiap.Tests.dll
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.pdb
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.genruntimeconfig.cache
+C:\Users\conttrotech\Desktop\Fiap\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\ref\Fiap.Tests.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\testhost.exe
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\testhost.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Fiap.Tests.deps.json
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Fiap.Tests.runtimeconfig.json
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Fiap.Tests.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Fiap.Tests.pdb
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.core.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.execution.dotnet.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.csproj.AssemblyReference.cache
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.AssemblyInfoInputs.cache
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.AssemblyInfo.cs
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.csproj.CoreCompileInputs.cache
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.csproj.Up2Date
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\refint\Fiap.Tests.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.pdb
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.genruntimeconfig.cache
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\PosTech\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\ref\Fiap.Tests.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\testhost.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\testhost.exe
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Fiap.Tests.deps.json
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Fiap.Tests.runtimeconfig.json
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Fiap.Tests.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Fiap.Tests.pdb
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.core.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\xunit.execution.dotnet.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.csproj.AssemblyReference.cache
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.AssemblyInfoInputs.cache
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.AssemblyInfo.cs
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.csproj.CoreCompileInputs.cache
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.csproj.Up2Date
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\refint\Fiap.Tests.dll
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.pdb
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\Fiap.Tests.genruntimeconfig.cache
+C:\Users\cleit\OneDrive\Documentos\PosTech - FIAP\TechChallange\Fiap.Domain\Fiap.Tests\obj\Debug\net8.0\ref\Fiap.Tests.dll
